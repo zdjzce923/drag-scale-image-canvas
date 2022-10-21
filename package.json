@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "panzoom": "^9.4.3",
+    "spritejs": "^3.8.1",
     "vue": "^3.2.37"
   },
   "devDependencies": {
